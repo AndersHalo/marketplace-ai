@@ -1,0 +1,9 @@
+{
+  "schemaVersion": "1.0",
+  "name": "martech-foundation",
+  "version": "2026-06-22-ba4bd73",
+  "description": "Shared web-development conventions for HubSpot, Shopify, and WordPress marketing-template projects.",
+  "skills": [
+    "skills/martech-css.md"
+  ]
+}

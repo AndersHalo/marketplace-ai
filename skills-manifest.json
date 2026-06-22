@@ -1,4 +1,14 @@
 {
-  "generated": "",
-  "skills": []
+  "generated": "2026-06-22T21:36:15.772Z",
+  "skills": [
+    {
+      "name": "martech-css",
+      "version": "1.0.0",
+      "platforms": [
+        "marketplace"
+      ],
+      "plugin": "martech-foundation",
+      "status": "published"
+    }
+  ]
 }
