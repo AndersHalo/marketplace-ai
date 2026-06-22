@@ -1,0 +1,6 @@
+{
+  "schemaVersion": "1.0",
+  "name": "Halo Marketplace",
+  "description": "Halo AI skill registry — installable Claude Code plugins.",
+  "plugins": []
+}
