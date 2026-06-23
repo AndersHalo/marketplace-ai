@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "name": "halo-product",
-  "version": "2026-06-23-9583207",
+  "version": "1.0.1",
   "description": "Product team toolkit for prototyping, roadmap generation, and team governance.",
   "skills": [
     "skills/prototype-build.md",
