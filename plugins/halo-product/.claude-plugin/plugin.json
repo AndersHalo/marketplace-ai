@@ -4,8 +4,8 @@
   "version": "1.0.4",
   "description": "Product team toolkit for prototyping, roadmap generation, and team governance.",
   "skills": [
-    "skills/prototype-build.md",
-    "skills/roadmap-build.md",
-    "skills/team-governance.md"
+    "skills/prototype-build/SKILL.md",
+    "skills/roadmap-build/SKILL.md",
+    "skills/team-governance/SKILL.md"
   ]
 }

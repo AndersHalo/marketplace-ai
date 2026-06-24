@@ -4,6 +4,6 @@
   "version": "1.0.1",
   "description": "Shared web-development conventions for HubSpot, Shopify, and WordPress marketing-template projects.",
   "skills": [
-    "skills/martech-css.md"
+    "skills/martech-css/SKILL.md"
   ]
 }
