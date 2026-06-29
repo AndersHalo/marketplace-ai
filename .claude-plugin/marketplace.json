@@ -4,11 +4,6 @@
   "description": "Halo AI skill registry — installable Claude Code plugins.",
   "plugins": [
     {
-      "name": "martech-foundation",
-      "description": "Shared web-development conventions for HubSpot, Shopify, and WordPress marketing-template projects.",
-      "path": "plugins/martech-foundation"
-    },
-    {
       "name": "halo-product",
       "description": "Product team toolkit for prototyping, roadmap generation, and team governance.",
       "path": "plugins/halo-product"
